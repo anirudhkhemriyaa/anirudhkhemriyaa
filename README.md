@@ -20,7 +20,7 @@ $ cat skills.json
 |---|---|
 | **languages** | Python · C++ · JavaScript |
 | **backend** | Django · FastAPI · DRF · REST APIs |
-| **databases** | PostgreSQL · Redis · Neo4j |
+| **databases** | PostgreSQL · Redis |
 | **tools** | Docker · Git · Linux · Nginx · Gunicorn |
 | **concepts** | Auth · API Design · Caching · Rate Limiting · Async Queues · DB Design |
 
