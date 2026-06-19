@@ -1,13 +1,13 @@
 ```
-╔══════════════════════════════════════════════════════╗
-║  $ whoami                                            ║
-║  > anirudha khemriya                                 ║
-║                                                      ║
-║  $ cat about.txt                                     ║
-║  > backend developer. cs undergrad @ ITM gwalior.    ║
-║  > django · fastapi · python                         ║
-║  > graphs · systems · automation                     ║
-╚══════════════════════════════════════════════════════╝
+                                    ╔══════════════════════════════════════════════════════╗
+                                    ║  $ whoami                                            ║
+                                    ║  > anirudha khemriya                                 ║
+                                    ║                                                      ║
+                                    ║  $ cat about.txt                                     ║
+                                    ║  > backend developer. cs undergrad @ ITM gwalior.    ║
+                                    ║  > django · fastapi · python                         ║
+                                    ║  > graphs · systems · automation                     ║
+                                    ╚══════════════════════════════════════════════════════╝
 ```
 
 ---
