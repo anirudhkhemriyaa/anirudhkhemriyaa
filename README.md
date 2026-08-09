@@ -29,11 +29,11 @@ anirudha@backend:~$ neofetch
       /     \         ─────────────────
       \.@-@./         OS:        Ubuntu 22.04 LTS
       /`\_/`\         Shell:     FastAPI / Django REST
-     //  _  \\        Editor:    VS Code + Agentic AI Editor
+     //  _  \\        Editor:    VS Code + tmux
     | \     )|_       Languages: Python, Go, C++, Java
    /`\_`>  <_/ \      Focus:     REST APIs · Graphs · Async · Caching
-   \__/'---'\__/      LeetCode:  300+ solved
-                      Status:    🎯 open to internships
+   \__/'---'\__/      LeetCode:  300+ solved · rating 1462
+                       Status:    🎯 open to internships
 ```
 
 <br/>
@@ -96,6 +96,11 @@ anirudha@backend:~$ neofetch
 <summary><b>🌐 geoimpact-intelligence</b> — graph-based event intelligence engine</summary>
 <br/>
 
+<img src="https://mermaid.ink/svg/Zmxvd2NoYXJ0IExSCiAgICBBWyJDbGllbnQgLyBOZXh0LmpzIFVJIl0gLS0-IEJbIkZhc3RBUEkgR2F0ZXdheSJdCiAgICBCIC0tPiBDWyJFdmVudCBJbmdlc3Rpb25cbjI1KyBjYXRlZ29yaWVzIl0KICAgIEMgLS0-IERbKCJOZW80alxuRGVwZW5kZW5jeSBHcmFwaCIpXQogICAgRCAtLT4gRVsiTmV0d29ya1hcblByb3BhZ2F0aW9uIFNpbXVsYXRvciJdCiAgICBFIC0tPiBGeyJDb25maWRlbmNlXG5TY29yaW5nIEVuZ2luZSJ9CiAgICBGIC0tPnxIaWdoIC8gTWVkaXVtfCBHWyJDYXVzYWwgQ2hhaW5cbkFjY2VwdGVkIl0KICAgIEYgLS0-fExvdyAvIEluc3VmZmljaWVudHwgSFsiQ2hhaW4gUHJ1bmVkIl0KICAgIEIgLS5mYWxsYmFjay4tPiBJWyJHcmFjZWZ1bCBEZWdyYWRhdGlvblxub24gbWlzc2luZyBub2RlcyAvIEFQSSBmYWlsdXJlIl0KICAgIHN0eWxlIEQgZmlsbDojMkU5RUY3LGNvbG9yOiNmZmYKICAgIHN0eWxlIEYgZmlsbDojMEYyMDI3LGNvbG9yOiNmZmY=" alt="GeoImpact architecture diagram"/>
+
+<details>
+<summary>View diagram source</summary>
+
 ```mermaid
 flowchart LR
     A["Client / Next.js UI"] --> B["FastAPI Gateway"]
@@ -109,6 +114,8 @@ flowchart LR
     style D fill:#2E9EF7,color:#fff
     style F fill:#0F2027,color:#fff
 ```
+
+</details>
 
 ```yaml
 stack: [FastAPI, Neo4j, NetworkX, Next.js, Docker, SQLite]
@@ -125,6 +132,11 @@ notes:
 <summary><b>⚙️ workflow-automation-platform (AWD)</b> — async task orchestration</summary>
 <br/>
 
+<img src="https://mermaid.ink/svg/Zmxvd2NoYXJ0IExSCiAgICBBWyJDbGllbnQiXSAtLT58IkpXVCBBdXRoInwgQlsiRGphbmdvIFJFU1QgQVBJIl0KICAgIEIgLS0-IENbKCJQb3N0Z3JlU1FMIildCiAgICBCIC0tPiBEWyJDZWxlcnkgUHJvZHVjZXIiXQogICAgRCAtLT4gRVsoIlJlZGlzXG5Ccm9rZXIiKV0KICAgIEUgLS0-IEZbIkNlbGVyeSBXb3JrZXJzIl0KICAgIEYgLS0-fCJmYWlsInwgR1siUmV0cnkgdy9cbkV4cG9uZW50aWFsIEJhY2tvZmYiXQogICAgRyAtLT4gRgogICAgRiAtLT58InN1Y2Nlc3MifCBIWyJVc2FnZSBUcmFja2luZ1xuKyBSYXRlIExpbWl0cyJdCiAgICBCIC0uLT4gSVsiTmdpbnggKyBHdW5pY29yblxuRG9ja2VyIERlcGxveSJdCiAgICBzdHlsZSBFIGZpbGw6I0RDMzgyRCxjb2xvcjojZmZmCiAgICBzdHlsZSBCIGZpbGw6IzA5MkUyMCxjb2xvcjojZmZm" alt="Workflow Automation architecture diagram"/>
+
+<details>
+<summary>View diagram source</summary>
+
 ```mermaid
 flowchart LR
     A["Client"] -->|"JWT Auth"| B["Django REST API"]
@@ -139,6 +151,8 @@ flowchart LR
     style E fill:#DC382D,color:#fff
     style B fill:#092E20,color:#fff
 ```
+
+</details>
 
 ```yaml
 stack: [Django, DRF, PostgreSQL, Redis, Celery, Docker, Nginx, Gunicorn]
@@ -155,6 +169,11 @@ notes:
 <summary><b>🏆 assistive-vision</b> — real-time navigation for the visually impaired · 🥇 1st place, AI Innovation Hackathon</summary>
 <br/>
 
+<img src="https://mermaid.ink/svg/Zmxvd2NoYXJ0IExSCiAgICBBWyJNb2JpbGUgQ2FtZXJhXG5MaXZlIFN0cmVhbSJdIC0tPiBCWyJGYXN0QVBJXG5GcmFtZSBJbmdlc3QiXQogICAgQiAtLT4gQ1siWU9MT1xuT2JqZWN0IERldGVjdGlvbiJdCiAgICBDIC0tPiBEWyJPcGVuQ1ZcblBvc3QtUHJvY2Vzc2luZyJdCiAgICBEIC0tPiBFeyJPYnN0YWNsZVxuRGV0ZWN0ZWQ_In0KICAgIEUgLS0-fHllc3wgRlsiVm9pY2UgR3VpZGFuY2Vcbk91dHB1dCJdCiAgICBFIC0tPnxub3wgQQogICAgc3R5bGUgQyBmaWxsOiM1QzNFRTgsY29sb3I6I2ZmZgogICAgc3R5bGUgRiBmaWxsOiMyRTlFRjcsY29sb3I6I2ZmZg==" alt="Assistive Vision architecture diagram"/>
+
+<details>
+<summary>View diagram source</summary>
+
 ```mermaid
 flowchart LR
     A["Mobile Camera\nLive Stream"] --> B["FastAPI\nFrame Ingest"]
@@ -166,6 +185,8 @@ flowchart LR
     style C fill:#5C3EE8,color:#fff
     style F fill:#2E9EF7,color:#fff
 ```
+
+</details>
 
 ```yaml
 stack: [FastAPI, YOLO, OpenCV]
@@ -181,6 +202,11 @@ notes:
 <summary><b>🩺 clinic-queue-management</b> — real-time patient queueing</summary>
 <br/>
 
+<img src="https://mermaid.ink/svg/Zmxvd2NoYXJ0IExSCiAgICBBWyJQYXRpZW50XG5Cb29raW5nIl0gLS0-IEJbIkZhc3RBUEkgQmFja2VuZCJdCiAgICBCIC0tPiBDWygiUmVkaXNcblRva2VuIFN0YXRlIildCiAgICBCIC0tPiBEWyJXZWJTb2NrZXRcbkh1YiJdCiAgICBEIC0tPnxwdXNofCBFWyJEb2N0b3IgRGFzaGJvYXJkIl0KICAgIEQgLS0-fHB1c2h8IEZbIlBhdGllbnQgUXVldWUgVmlldyJdCiAgICBDIC0tPiBHWyJXYWl0LVRpbWVcbkVzdGltYXRvciJdCiAgICBHIC0tPiBECiAgICBzdHlsZSBDIGZpbGw6I0RDMzgyRCxjb2xvcjojZmZmCiAgICBzdHlsZSBEIGZpbGw6IzBGMjAyNyxjb2xvcjojZmZm" alt="Clinic Queue Management architecture diagram"/>
+
+<details>
+<summary>View diagram source</summary>
+
 ```mermaid
 flowchart LR
     A["Patient\nBooking"] --> B["FastAPI Backend"]
@@ -193,6 +219,8 @@ flowchart LR
     style C fill:#DC382D,color:#fff
     style D fill:#0F2027,color:#fff
 ```
+
+</details>
 
 ```yaml
 stack: [FastAPI, Redis, WebSockets]
@@ -208,6 +236,7 @@ notes:
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anirudhkhemriyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=anirudhkhemriyaa&theme=tokyonight&hide_border=true"/>
 </div>
 
