@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://anirudhakhemriya.dev"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=firefox&logoColor=1A1B27"></a>
+<a href="[https://anirudhakhemriya.dev](https://portfolio-ten-gamma-ld01t3ry5m.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=firefox&logoColor=1A1B27"></a>
 <a href="mailto:anirudhakhemriya06@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=1A1B27"></a>
 <a href="https://linkedin.com/in/anirudha-khemriya"><img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=1A1B27"></a>
 <a href="https://github.com/anirudhkhemriyaa"><img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7"></a>
